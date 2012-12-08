@@ -1,0 +1,1 @@
+D:\Projects\C#\MineSweeper\MineSweeper\MineSweeperContent\obj\x86\Debug\ResolveAssemblyReference.cache
